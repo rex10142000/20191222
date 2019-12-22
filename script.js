@@ -1,12 +1,12 @@
 // file: script.js
 // Initialize Firebase
 var config = {
-    apiKey: "AIzaSyDsAWMJEqq6uYdCsDD7HSsm60O00bJ-ELc",
-    authDomain: "dec182019-f36c6.firebaseapp.com",
-    databaseURL: "https://dec182019-f36c6.firebaseio.com",
-    projectId: "dec182019-f36c6",
-    storageBucket: "dec182019-f36c6.appspot.com",
-    messagingSenderId: "713450929726",
+    apiKey: "AIzaSyBUzY4chd4mEimKqh6OhVZY4d7nCzwK-0U",
+    authDomain: "dec22-df2b9.firebaseapp.com",
+    databaseURL: "https://dec22-df2b9.firebaseio.com",
+    projectId: "dec22-df2b9",
+    storageBucket: "dec22-df2b9.appspot.com",
+    messagingSenderId: "96579980456"
 };
 firebase.initializeApp(config);
 
